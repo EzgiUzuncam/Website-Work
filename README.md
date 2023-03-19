@@ -8,13 +8,14 @@
 
  <h2>Paylaştıkça Websitesi</h2>
 
- <img src="Gifs/WebPageDesign.gif"> </br>
+&#8226; Anasayfa <img src="/Gifs/WebPageDesign.gif"> </br></br></br>
 
- <img src="Gifs/WebPageDesignOne.gif"> </br>
+&#8226; Hakımızda <img src="/Gifs/WebPageDesignOne.gif"> </br></br></br>
 
- <img src="Gifs/WebPageDesignTwo.gif"> </br>
+&#8226; Referans <img src="/Gifs/WebPageDesignTwo.gif"> </br></br></br>
 
- <img src="Gifs/WebPageDesignThree.gif"> </br>
+&#8226; Galeri <img src="/Gifs/WebPageDesignThree.gif"> </br></br></br>
 
- <img src="Gifs/WebPageDesignFour.gif"> </br>
+&#8226; İletişim <img src="/Gifs/WebPageDesignFour.gif"> 
+ 
  
